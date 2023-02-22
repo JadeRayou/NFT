@@ -41,7 +41,7 @@ body{
 .overlay{
     visibility: hidden;
     position: absolute;
-    top: 50%;
+    transform: translate(0,250%);
     font-size: 40px;
 }
 
